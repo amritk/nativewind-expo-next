@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "expo": "^47.0.0",
-    "nativewind": "^2.0.11",
+    "@expo/config": "^7.0.3",
+    "nativewind": "^3.0.0-next.19",
     "next": "^12.2.5",
     "react": "18.1.0",
     "react-dom": "18.1.0",
